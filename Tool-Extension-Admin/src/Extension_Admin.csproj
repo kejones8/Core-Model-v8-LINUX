@@ -18,6 +18,10 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <GenerateMSBuildEditorConfigFile>false</GenerateMSBuildEditorConfigFile>
+  </PropertyGroup>
+
+  <PropertyGroup>
     <EnableNETAnalyzers>false</EnableNETAnalyzers>
   </PropertyGroup>
 
@@ -59,5 +63,6 @@
   </ItemGroup>
 
 </Project>
+
 
 
