@@ -17,14 +17,6 @@
     <OutputPath>..\..\build\Release</OutputPath>
   </PropertyGroup>
 
-  <PropertyGroup>
-    <GenerateMSBuildEditorConfigFile>false</GenerateMSBuildEditorConfigFile>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <EnableNETAnalyzers>false</EnableNETAnalyzers>
-  </PropertyGroup>
-
   <ItemGroup>
     <None Remove="Landis.Extensions.runtimeconfig.json" />
   </ItemGroup>
@@ -63,6 +55,7 @@
   </ItemGroup>
 
 </Project>
+
 
 
 
